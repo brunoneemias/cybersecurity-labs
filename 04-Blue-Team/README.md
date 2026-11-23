@@ -42,7 +42,7 @@ O foco é a atuação defensiva: monitoramento, detecção, análise de logs, re
 
 | Módulo | Aula | Tema | Status |
 |--------|------|------|--------|
-| — | — | Nenhuma aula registrada ainda | ⏳ |
+| 01 | [01](modulo-01-design-rede-segura/aula-01-design-rede-segura.md) | Design de Rede Segura | ✅ |
 
 ### 🧪 Labs
 

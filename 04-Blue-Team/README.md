@@ -48,7 +48,7 @@ O foco é a atuação defensiva: monitoramento, detecção, análise de logs, re
 
 | Lab | Tema | Status |
 |-----|------|--------|
-| — | Nenhum lab registrado ainda | ⏳ |
+| [01](labs/lab-01-arquitetura-rede-segura/README.md) | Arquitetura e Design de Rede Segura | ✅ |
 
 **Legenda:** ✅ concluído · 🔄 em andamento · ⏳ pendente
 

@@ -45,3 +45,12 @@ Algumas das ferramentas e tecnologias utilizadas nos laboratórios:
 
 ---
 
+## 📂 Trilhas
+
+| Pasta | Conteúdo |
+|-------|----------|
+| [03-Fundamental](03-Fundamental/) | Fundamentos de Cibersegurança |
+| [labs](labs/) | Laboratórios dos Fundamentos |
+| [04-Blue-Team](04-Blue-Team/) | Especialização Blue Team (aulas, labs e progresso) |
+
+---
